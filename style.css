@@ -1,0 +1,39 @@
+body{
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.dashbord{
+    width: auto;
+    padding : 16px;
+    background-color: rgb(54, 45, 45);
+}
+
+th {
+    background-color: brown;
+    color: cornsilk; 
+    margin: 10px;
+}
+
+.destinationTime td{
+    background-color: rgb(24, 17, 17);
+    color: rgb(236, 53, 20);
+    border-radius: 2px;
+}
+
+.presentTime td{
+    background-color: rgb(24, 17, 17);
+    color: rgb(72, 177, 51);
+
+}
+
+
+label{
+
+    background-color: rgb(24, 17, 17);
+    color: cornsilk;
+}
